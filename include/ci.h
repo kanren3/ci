@@ -170,7 +170,7 @@ _IRQL_requires_max_(PASSIVE_LEVEL)
 NTSYSAPI
 VOID
 NTAPI
-MincryptFreePolicyInfo (
+CiFreePolicyInfo (
     _In_ PMINCRYPT_POLICY_INFO PolicyInfo
 );
 
