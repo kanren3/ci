@@ -1,0 +1,1 @@
+The structure and function signatures are from IDA.
